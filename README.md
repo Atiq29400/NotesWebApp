@@ -18,4 +18,16 @@
 
 
 ### All Notes Page View
-![All Notes View](/storage/files/AllNotes.png "All Notes View")
+![All Notes View](./storage/files/NotesWebAppImages/AllNotes.png)
+
+
+### Done Notes Page View
+![All Notes View](./storage/files/NotesWebAppImages/DoneNotes.png)
+
+
+### Add New Note Page View
+![All Notes View](./storage/files/NotesWebAppImages/AddNote.png)
+
+
+### Edit Exsisting Page View
+![All Notes View](./storage/files/NotesWebAppImages/UpdateNote.png)
