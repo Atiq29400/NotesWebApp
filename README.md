@@ -11,6 +11,7 @@
 
 ## To use this follow the following commands
 - First install Xammp and run Apache and MySQL servers
+- After that you have to create tables and Database by executing the command (php artisan migrate)
 - Run the project by executing the command (php artisan serve)
 - After that the project will be run on local server (127.0.0.1) on port 8000
 - You can view the project by go to 127.0.0.1:8000 or localhost:8000 in URL bar in any web browser
